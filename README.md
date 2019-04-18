@@ -3,6 +3,8 @@ amazon-mws-php
 
 ### Amazon Marketplace Web Service libraries
 
+Note: This is a fork of psyforce/amazon-mws-php, which does not seem to be maintained anymore as my pull request to fix a bug has been ignored.
+
 Installation
 ------------
 
