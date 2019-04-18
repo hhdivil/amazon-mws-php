@@ -1,5 +1,5 @@
 {
-  "name": "psyforce/amazon-mws-php",
+  "name": "hhdivil/amazon-mws-php",
   "type": "library",
   "description": "Amazon Marketplace Web Service libraries",
   "minimum-stability": "dev",
@@ -8,8 +8,8 @@
     "name": "Amazon.com, Inc.",
     "homepage": "https://developer.amazonservices.de/"
   }, {
-    "name": "Aleksey Troshchiy",
-    "email": "psyforce.alex@gmail.com"
+    "name": "Dave Rosthorn",
+    "email": "dave@icansee.co.uk"
   }],
   "include-path": ["src/"],
   "autoload": {

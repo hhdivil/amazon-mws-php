@@ -9,7 +9,7 @@ Installation
 Install [Composer](http://getcomposer.org/) and add amazon-mws to your `composer.json`:
 
     "require": {
-      "psyforce/amazon-mws-php":"dev-master"
+      "hhdivil/amazon-mws-php":"dev-master"
     }
 
 Used these libraries :
