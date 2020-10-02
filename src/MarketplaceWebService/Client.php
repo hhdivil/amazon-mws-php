@@ -912,6 +912,7 @@ class MarketplaceWebService_Client implements MarketplaceWebService_Interface
 
     $this->curlClient = curl_init();
     curl_setopt_array($this->curlClient, $curlOptions);
+    curl_setopt($this->curlClient, CURLOPT_VERBOSE, 0);
 
     $this->headerContents = @fopen('php://memory', 'rw+');
     $this->errorResponseBody = @fopen('php://memory', 'rw+');
